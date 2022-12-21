@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capsaicin01&label=Profile%20views&color=0e75b6&style=flat" alt="capsaicin01" /> </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=capsaicin01&theme=tokyonight&show_icons=true&locale=en" /> </p>
-
 <h3 align="left">Contact with me:</h3>
 <p align="left">Discord: caps | ツナ#0129</p>
 <h3 align="left">Languages and Tools:</h3>
